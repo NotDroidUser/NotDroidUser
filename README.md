@@ -2,23 +2,33 @@
 
 # You, yeah, you, Hi there 👋🤖
 ### My name is Ruben David
+```kotlin
 val howOld="I'm Doing Android things since 2018. But also some Wordpress, Python, and other things";
 
 //TODO be seriuos
-
 var jokes=True;
 
 val likes="Love Kotlin from the ~1.2, starting with Rust now with the same feeling";
 
 val whatIWorked=listOf(
+```
 " [![Kotlin][Kotlin-b]][Kotlin-url] ",
 " [![Python][Python-b]][Python-url] ",
 " [![Docker][docker-b]][docker-url] ",
-" [![Rust][rust-b]][rust-url] ",
-" [![PostgreSql][PostgreSql-b]][PostgreSql-url] ",
 " [![Wordpress][Wordpress-b]][Wordpress-url] ",
-" [![PHP][PHP-b]][PHP-url] ");
-
+" [![PHP][PHP-b]][PHP-url] ,
+" [![PostgreSql][PostgreSql-b]][PostgreSql-url] ",
+```
+");
+```
+```rust
+let alsoStuding=vec![
+```
+" [![Rust][rust-b]][rust-url] ",
+" [![Go][go-b]][go-url] ",
+```rust
+]
+```
 
 [Python-b]: https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python
 [Python-url]: PHP
@@ -34,3 +44,5 @@ val whatIWorked=listOf(
 [docker-url]: https://www.docker.com/
 [rust-b]: https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white
 [rust-url]: https://rust-lang.org/
+[go-b]: https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=00ADD8
+[go-url]: https://rust-lang.org/
