@@ -4,6 +4,9 @@
 ### My name is Ruben David
 val howOld="I'm Doing Android things since 2018. But also some Wordpress, Python, and other things";
 
+//TODO be seriuos
+var jokes=True;
+
 val likes="Love Kotlin from the ~1.2, starting with Rust now with the same feeling";
 
 val whatIWorked=listOf(
