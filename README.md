@@ -6,7 +6,7 @@ val how_old="I'm Doing Android things since 2018. But also some Wordpress, Pytho
 
 val likes="Love Kotlin from the ~1.2, starting with Rust now with the same feeling";
 
-val what_i_worked=listOf(
+val whatIWorked=listOf(
 " [![Kotlin][Kotlin-b]][Kotlin-url] ",
 " [![Python][Python-b]][Python-url] ",
 " [![Docker][docker-b]][docker-url] ",
