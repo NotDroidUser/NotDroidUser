@@ -45,4 +45,4 @@ let alsoStuding=vec![
 [rust-b]: https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white
 [rust-url]: https://rust-lang.org/
 [go-b]: https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=00ADD8
-[go-url]: https://rust-lang.org/
+[go-url]: https://go.dev/
